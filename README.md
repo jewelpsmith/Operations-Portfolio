@@ -14,14 +14,14 @@ This portfolio highlights examples of my work in:
 
 ## 📂 Featured Projects  
 
-### Payroll & Expense Tracker (Excel / Google Sheets)  
-📊 Sample tracker for payroll entries, expense reimbursements, and vendor payments.  
+## 📂 Featured Projects  
 
-### Operations SOP Example (PDF)  
-📑 Generic SOP template showing step-by-step onboarding and payroll data checks.  
+**Payroll & Expense Tracker (Excel / Google Sheets)** – Sample payroll and expense tracker with mock data to demonstrate accuracy in pay and reimbursements.  
 
-### Workflow Automation (Zapier Example)  
-⚡ Overview of a Zapier workflow to automate invoice approvals and reduce manual work.  
+**Operations SOP Example (PDF)** – A Standard Operating Procedure (SOP) template that showcases onboarding and payroll workflows with clear, step-by-step instructions.  
+
+**Zapier Workflow Automation Example (PDF)** – Automated invoice approval workflow using Google Forms, Slack, and QuickBooks to cut manual work and improve accuracy.  
+
 
 ---
 
