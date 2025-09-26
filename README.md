@@ -11,9 +11,7 @@ This portfolio highlights examples of my work in:
 - Reporting & Dashboards (Excel, Google Sheets)  
 
 ---
-
-## 📂 Featured Projects  
-
+  
 ## 📂 Featured Projects  
 
 **Payroll & Expense Tracker (Excel / Google Sheets)** – Sample payroll and expense tracker with mock data to demonstrate accuracy in pay and reimbursements.  
