@@ -1,0 +1,14 @@
+# Dashboards & Reports
+
+This folder contains examples of reporting and tracking tools I’ve developed to support operations, compliance, and financial accuracy.  
+All data included is **sample or redacted** for confidentiality.
+
+## Files
+- **kpi-dashboard-sample.xlsx** – Demonstrates how team performance and compliance metrics can be tracked in a single view.  
+- **budget-expense-tracker.xlsx** – Spreadsheet for monitoring department budgets, expenses, and variances.  
+- **inventory-control-sheet.xlsx** – Tool for tracking stock levels, procurement cycles, and reconciliations.
+
+## Highlights
+- Automates calculations to reduce manual errors.  
+- Provides visibility into KPIs for managers and leadership.  
+- Helps teams make decisions based on accurate, real-time data.
